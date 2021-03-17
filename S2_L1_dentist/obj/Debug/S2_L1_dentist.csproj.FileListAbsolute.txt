@@ -1,0 +1,10 @@
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\bin\Debug\S2_L1_dentist.exe.config
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\bin\Debug\S2_L1_dentist.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\bin\Debug\S2_L1_dentist.pdb
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\obj\Debug\S2_L1_dentist.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\obj\Debug\S2_L1_dentist.Form1.resources
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\obj\Debug\S2_L1_dentist.Properties.Resources.resources
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\obj\Debug\S2_L1_dentist.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\obj\Debug\S2_L1_dentist.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\obj\Debug\S2_L1_dentist.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_dentist\obj\Debug\S2_L1_dentist.pdb

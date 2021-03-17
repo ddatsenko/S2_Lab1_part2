@@ -1,0 +1,10 @@
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\bin\Debug\S2_L1_IT6.exe.config
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\bin\Debug\S2_L1_IT6.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\bin\Debug\S2_L1_IT6.pdb
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\obj\Debug\S2_L1_IT6.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\obj\Debug\S2_L1_IT6.Form1.resources
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\obj\Debug\S2_L1_IT6.Properties.Resources.resources
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\obj\Debug\S2_L1_IT6.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\obj\Debug\S2_L1_IT6.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\obj\Debug\S2_L1_IT6.exe
+C:\Users\Денис\Desktop\Uni\ООП\S2_L1_IT6\obj\Debug\S2_L1_IT6.pdb
